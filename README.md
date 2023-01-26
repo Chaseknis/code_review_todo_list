@@ -69,11 +69,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<br><br>
-
-Not Yet
-
-
+### [Live Link](https://chaseknis.github.io/code_review_todo_list/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
